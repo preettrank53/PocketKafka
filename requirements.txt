@@ -1,0 +1,5 @@
+# Dependencies
+fastapi
+uvicorn
+httpx
+pydantic
